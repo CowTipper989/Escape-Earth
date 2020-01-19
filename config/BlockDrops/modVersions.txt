@@ -64,7 +64,6 @@
   "vanillafix": "1.0.10-SNAPSHOT",
   "spartanshields": "1.5.4",
   "fastbench": "1.7.3",
-  "overlord": "2.4.14",
   "jeivillagers": "1.0",
   "advancedrocketrycore": "1",
   "securitycraft": "v1.8.15",
