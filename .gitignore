@@ -1,0 +1,107 @@
+journeymap
+.mixin.out
+Escape-Earth
+logs
+resourcepacks
+saves
+shaderpacks
+.curseclient
+.splashes
+crafttweaker.log
+minecraftinstance.json
+optionsof.txt
+optionsshaders.txt
+usercache.json
+usernamecache.json
+.mixin.out/audit/mixin_implementation_report.csv
+.mixin.out/audit/mixin_implementation_report.txt
+journeymap/journeymap.log
+journeymap/config/5.5/journeymap.core.config
+journeymap/config/5.5/journeymap.fullmap.config
+journeymap/config/5.5/journeymap.minimap.config
+journeymap/config/5.5/journeymap.minimap2.config
+journeymap/config/5.5/journeymap.topo.config
+journeymap/config/5.5/journeymap.waypoint.config
+journeymap/config/5.5/journeymap.webmap.config
+journeymap/data/sp/New World/DIM0/day/-1,0.png
+journeymap/data/sp/New World/DIM0/day/0,0.png
+journeymap/data/sp/New World/DIM0/night/-1,0.png
+journeymap/data/sp/New World/DIM0/night/0,0.png
+journeymap/data/sp/New World/DIM0/topo/-1,0.png
+journeymap/data/sp/New World/DIM0/topo/0,0.png
+journeymap/icon/theme/default.theme.config
+journeymap/icon/theme/flat/DesertTemple.theme2.json
+journeymap/icon/theme/flat/EndCity.theme2.json
+journeymap/icon/theme/flat/ForestMansion.theme2.json
+journeymap/icon/theme/flat/NetherFortress.theme2.json
+journeymap/icon/theme/flat/OceanMonument.theme2.json
+journeymap/icon/theme/flat/Purist.theme2.json
+journeymap/icon/theme/flat/Stronghold.theme2.json
+journeymap/server/5.5/journeymap.server.default.config
+journeymap/server/5.5/journeymap.server.dim-1.config
+journeymap/server/5.5/journeymap.server.dim-2.config
+journeymap/server/5.5/journeymap.server.dim0.config
+journeymap/server/5.5/journeymap.server.dim1.config
+journeymap/server/5.5/journeymap.server.dim111.config
+journeymap/server/5.5/journeymap.server.global.config
+logs/2020-01-18-1.log.gz
+logs/2020-01-18-2.log.gz
+logs/latest.log
+saves/New World/ESM.dat
+saves/New World/forcedchunks.dat
+saves/New World/icon.png
+saves/New World/level.dat
+saves/New World/level.dat_old
+saves/New World/overlordplayersquads.dat
+saves/New World/session.lock
+saves/New World/CoroUtil/Quests/Xirxes.dat
+saves/New World/CoroUtil/World/ChunkDataDim_0.dat
+saves/New World/CoroUtil/World/WorldData_coroutil_0_default.dat
+saves/New World/DIM-1/forcedchunks.dat
+saves/New World/DIM-1/data/capabilities.dat
+saves/New World/DIM-1/data/villages_nether.dat
+saves/New World/DIM1/forcedchunks.dat
+saves/New World/DIM1/data/capabilities.dat
+saves/New World/DIM1/data/villages_end.dat
+saves/New World/LOST/forcedchunks.dat
+saves/New World/LOST/data/capabilities.dat
+saves/New World/LOST/data/villages_lost.dat
+saves/New World/advRocketry/planetDefs.xml
+saves/New World/advRocketry/temp.dat
+saves/New World/advRocketry/DIM-2/forcedchunks.dat
+saves/New World/advRocketry/DIM-2/data/capabilities.dat
+saves/New World/advRocketry/DIM-2/data/villagesplanet.dat
+saves/New World/advancements/579517de-47ba-4c87-b9f8-8a83bb119879.json
+saves/New World/data/capabilities.dat
+saves/New World/data/Mineshaft.dat
+saves/New World/data/scoreboard.dat
+saves/New World/data/Village.dat
+saves/New World/data/villages.dat
+saves/New World/playerdata/579517de-47ba-4c87-b9f8-8a83bb119879.dat
+saves/New World/region/r.-1.-1.mca
+saves/New World/region/r.-1.0.mca
+saves/New World/region/r.-1.1.mca
+saves/New World/region/r.-1.2.mca
+saves/New World/region/r.-2.-1.mca
+saves/New World/region/r.-2.0.mca
+saves/New World/region/r.-2.1.mca
+saves/New World/region/r.-2.2.mca
+saves/New World/region/r.0.-1.mca
+saves/New World/region/r.0.0.mca
+saves/New World/region/r.0.1.mca
+saves/New World/region/r.0.2.mca
+saves/New World/region/r.1.-1.mca
+saves/New World/region/r.1.0.mca
+saves/New World/region/r.1.1.mca
+saves/New World/stats/579517de-47ba-4c87-b9f8-8a83bb119879.json
+shaderpacks/continuum-2.0.4(1).zip
+shaderpacks/SEUS Renewed 1.0.0.zip
+shaderpacks/Sildurs Enhanced Default v1.10.zip
+shaderpacks/Sildurs Vibrant Shaders v1.262 Extreme-VL.zip
+shaderpacks/Sildurs Vibrant Shaders v1.262 High.zip
+options.txt
+options.txt
+config/jei/worldSettings.cfg
+config/jei/worldSettings.cfg
+.ReAuth.cfg
+options.txt
