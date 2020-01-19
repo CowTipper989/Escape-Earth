@@ -6,6 +6,9 @@ resourcepacks
 saves
 shaderpacks
 config/jei
+ichunutil.cfg
+splash.properties
+crash-reports
 
 .curseclient
 .splashes
@@ -136,4 +139,8 @@ screenshots/2020-01-18_15.55.30.png
 screenshots/2020-01-18_15.55.39.png
 screenshots/2020-01-18_15.55.46.png
 config/InvTweaks.cfg
+<<<<<<< HEAD
 config/splash.properties
+=======
+config/BlockDrops/modVersions.txt
+>>>>>>> 8d0b92205bbf2551e7fd6e949aa7bcdfd600370a
